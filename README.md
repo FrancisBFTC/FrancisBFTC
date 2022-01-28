@@ -1,5 +1,3 @@
-
-
 ## Hello World! 🖖 Sou o Wender Francis, Um OSDever que ama lecionar! 👨‍🏫
 
 - 💾 Desenvolvo um sistema operacional de código-aberto chamado KiddieOS
@@ -18,8 +16,9 @@
 </div>
   
   <br>
+<hr>
+<br>
 
-  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -40,8 +39,6 @@
   <img align="center" height="50" width="50" src="Assembly-x86.png">
   <img align="center" height="40" width="60" src="Nasm.png">
 </div>
-
-  
   
   ##
  
@@ -58,21 +55,8 @@
  
 </div>
   
-<br><br><br>
-  
-## Meus Projetos Principais
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=KiddieOS_Development)](https://github.com/FrancisBFTC/KiddieOS_Development)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Electrical_Engineering_Assembly)](https://github.com/FrancisBFTC/Electrical_Engineering_Assembly)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=KiddieOS_SysCall)](https://github.com/FrancisBFTC/KiddieOS_SysCall)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=RouthHurwitz_C_Algoritm)](https://github.com/FrancisBFTC/RouthHurwitz_C_Algoritm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=ProCalc-C)](https://github.com/FrancisBFTC/ProCalc-C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=CFOCOL_Programming)](https://github.com/FrancisBFTC/CFOCOL_Programming)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Linguagem-Plax-JAVA)](https://github.com/FrancisBFTC/Linguagem-Plax-JAVA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Eletronix-JAVA)](https://github.com/FrancisBFTC/Eletronix-JAVA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=InterComp-JAVA-Arduino)](https://github.com/FrancisBFTC/InterComp-JAVA-Arduino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=RAST_Kali_Linux-SHELL)](https://github.com/FrancisBFTC/RAST_Kali_Linux-SHELL)
-  
+<br>
+<hr>
 <br>
   
 ## :sparkling_heart: Apoie o BFTC Projetos!
@@ -87,4 +71,21 @@ Se você estiver aprendendo com estes projetos e estiver satisfeito com isso, ou
 
 Obrigado! :heart:
 
----
+<br>
+<hr>
+<br>
+ 
+## Meus Projetos Principais
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=KiddieOS_Development)](https://github.com/FrancisBFTC/KiddieOS_Development)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Electrical_Engineering_Assembly)](https://github.com/FrancisBFTC/Electrical_Engineering_Assembly)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=KiddieOS_SysCall)](https://github.com/FrancisBFTC/KiddieOS_SysCall)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=RouthHurwitz_C_Algoritm)](https://github.com/FrancisBFTC/RouthHurwitz_C_Algoritm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=ProCalc-C)](https://github.com/FrancisBFTC/ProCalc-C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=CFOCOL_Programming)](https://github.com/FrancisBFTC/CFOCOL_Programming)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Linguagem-Plax-JAVA)](https://github.com/FrancisBFTC/Linguagem-Plax-JAVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=Eletronix-JAVA)](https://github.com/FrancisBFTC/Eletronix-JAVA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=InterComp-JAVA-Arduino)](https://github.com/FrancisBFTC/InterComp-JAVA-Arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrancisBFTC&repo=RAST_Kali_Linux-SHELL)](https://github.com/FrancisBFTC/RAST_Kali_Linux-SHELL)
+  
+<br>
