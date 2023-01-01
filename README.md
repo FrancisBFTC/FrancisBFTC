@@ -1,7 +1,7 @@
 ## Hello World! 🖖 Sou o Wender Francis, Um OSDever que ama lecionar! 👨‍🏫
 
 - 💾 Desenvolvo um sistema operacional de código-aberto chamado KiddieOS
-- ⚙ Atualmente aprendendo engenharia com Microcontroladores & Desenvolvimento Android
+- ⚙ Atualmente aprendendo engenharia com Microcontroladores
 - 👥 Busco colaborações junto a comunidade KiddieOS (Em Breve)
 - 🎥 Administro um curso no Youtube sobre criação de sistema operacional
 - 💻 Faço trabalhos de desenvolvimento de softwares e trabalhos de faculdade de TI
