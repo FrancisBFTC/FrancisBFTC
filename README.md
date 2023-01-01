@@ -4,7 +4,7 @@
 - ⚙ Atualmente aprendendo engenharia com Microcontroladores
 - 👥 Busco colaborações junto a comunidade KiddieOS (Em Breve)
 - 🎥 Administro um curso no Youtube sobre criação de sistema operacional
-- 💻 Faço trabalhos de desenvolvimento de softwares e trabalhos de faculdade de TI
+- 💻 Faço trabalhos de desenvolvimento de softwares e trabalhos acadêmicos de tecnologia
 - 📫 contacte-me no meu face: [Francis.Bftc](https://www.facebook.com/francis.bftc/)
 
 <br>
